@@ -1,4 +1,4 @@
-# hebrew_notes
+# Hebrew Notes
 
 [https://stevestock.github.io/hebrew_notes/](https://stevestock.github.io/hebrew_notes/)
 
