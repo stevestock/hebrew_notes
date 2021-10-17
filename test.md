@@ -1,7 +1,10 @@
----
-layout: page
-title: "TEST PAGE 2"
-permalink: /test/
----
+## Ma'oz Tzur Test
+(source: https://en.wikipedia.org/wiki/Ma%27oz_Tzur#Text)
 
-test page 2
+| Hebrew | Transliteration | English |
+| ---: | :--- | :--- |
+| מָעוֹז צוּר יְשׁוּעָתִי, לְךָ נָאֶה לְשַׁבֵּחַ<br>תִּכּוֹן בֵּית תְּפִלָּתִי, וְשָׁם תּוֹדָה נְזַבֵּחַ<br>.לְעֵת תָּכִין מַטְבֵּחַ מִצָּר הַמְנַבֵּחַ.<br>אָז אֶגְמוֹר בְּשִׁיר מִזְמוֹר חֲנֻכַּת הַמִּזְבֵּחַ.                                                                               | Ma'oz Tzur Yeshu'ati, lekha na'eh leshabe'ah.<br>Tikon beit tefilati, vesham toda nezabe'ah.<br>Le'et takhin matbe'ah mitzar hamnabe'ah.<br>Az egmor beshir mizmor hanukat hamizbe'ah. | My Refuge, my Rock of Salvation! 'Tis pleasant to sing Your praises.<br>Let our house of prayer be restored. And there we will offer You our thanks.<br>When You will have slaughtered the barking foe.<br>Then we will celebrate with song and psalm the altar's dedication. | 
+| עוֹת שָׂבְעָה נַפְשִׁי, בְּיָגוֹן כֹּחִי כָּלָה<br>חַיַּי מֵרְרוּ בְקֹשִׁי, בְּשִׁעְבּוּד מַלְכוּת עֶגְלָה<br>וּבְיָדוֹ הַגְּדוֹלָה הוֹצִיא אֶת הַסְּגֻלָּה<br>חֵיל פַּרְעֹה וְכָל זַרְעוֹ יָרְדוּ כְּאֶבֶן בִּמְצוּלָה.                                                                               | Ra'ot save'ah nafshi, beyagon kohi kala.<br>Hayyai mereru vekoshi, beshi'abud malkhut egla.<br>Uvyado hagdola hotzi et hasgula.<br>Heil par'o vekhol zar'o yaredu ke'even bimtzula. | My soul was sated with misery, my strength was spent with grief.<br>They embittered my life with hardship, When enslaved under the rule of Egypt.<br>But G-d with His mighty power Brought out His treasured people;<br>While Pharaoh's host and followers Sank like a stone into the deep. |
+
+
+
