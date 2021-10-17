@@ -1,5 +1,4 @@
 # Hebrew Notes
-
 [stevestock.github.io/hebrew_notes/](https://stevestock.github.io/hebrew_notes/)
 
 A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homonyms, rhymes, etc.
@@ -8,6 +7,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 ## TV
 
 ### Dora the Explorer
-מגלים עם דורה / Megalim Im Dora 
+מגלים עם דורה / Megalim Im Dora
 
+## Music
 Example Lyrics: [Maoz Tzur](maoz_tzur.md)
