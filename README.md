@@ -7,7 +7,12 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 ## TV
 
 ### Dora the Explorer
-מגלים עם דורה / Megalim Im Dora
+מגלים עם דורה / megalim im dora
+
+| Hebrew | Translit | English |
+| ---: | :--- | :--- |
+| דורה, בוטס |      | Dora, Boots! |
+| קדימה דורה | Kadima, Dora! | Come on, Dora! |
 
 ## Music
 Example Lyrics: [Maoz Tzur](maoz_tzur.md)
