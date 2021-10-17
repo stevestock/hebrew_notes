@@ -8,6 +8,6 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 ## TV
 
 ### Dora the Explorer
-Megalim Im Dora / מגלים עם דורה
+מגלים עם דורה / Megalim Im Dora 
 
 Example Lyrics: [Maoz Tzur](maoz_tzur.md)
