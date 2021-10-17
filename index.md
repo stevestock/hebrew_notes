@@ -1,6 +1,7 @@
 ---
-layout: post
-title: hello1
+layout: page
+title: "TEST PAGE 1"
+permalink: /
 ---
 
-test 1
+test page 1
