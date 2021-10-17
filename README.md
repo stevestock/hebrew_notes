@@ -4,4 +4,10 @@
 
 A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homonyms, rhymes, etc.
 
-Example: [Maoz Tzur](maoz_tzur.md)
+
+## TV
+
+### Dora the Explorer
+Megalim Im Dora / מגלים עם דורה
+
+Example Lyrics: [Maoz Tzur](maoz_tzur.md)
