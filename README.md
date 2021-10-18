@@ -9,10 +9,16 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 ### Dora the Explorer
 מגלים עם דורה / megalim im dora
 
-| Hebrew | Translit | English |
+| Hebrew | Translit | English (Original)|
 | ---: | :--- | :--- |
 | דורה, בוטס |      | Dora, Boots! |
-| קדימה דורה | Kadima, Dora! | Come on, Dora! |
+| קדימה דורה | kadima, dora! | Come on, Dora! |
+| אוקיי | okay | Alright! |
+| נזוז | nazuz | Let's go! |
+| !דורה, דורה, דורה, החוקרת! כן | dora dora dora hachokeret | Dora, Dora, Dora the explorer! Dora!|
+
+
+
 
 ## Music
 Example Lyrics: [Maoz Tzur](maoz_tzur.md)
