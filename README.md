@@ -16,6 +16,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | אוקיי | okay | Alright! |
 | נזוז | nazuz | Let's go! |
 | !דורה, דורה, דורה, החוקרת! כן | dora dora dora hachokeret | Dora, Dora, Dora the explorer! Dora!|
+| !בוטס מדליק ודורה נהדרת  | boots madlik v'dora nehederet | Boots and super cool explorer Dora|
 
 
 
