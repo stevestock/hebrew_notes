@@ -22,7 +22,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | let's go ,כולם  | *kulam, let's go* | Jump in, ¡vámonos! |
 | בואו גם אתם | *bo'u gam atem* | You can lead the way |
 | חטפני אל תחטוף לי | *chatfani al tachtuf li* | Swiper no swiping |
-| אוף, חבל | *of, chaval* | Oh man |
+| אוף, חבל | *uf, chaval* | Oh man |
 | מגלים עם דורה | *megalim im dora* | Dora the Explorer! |
 
 
