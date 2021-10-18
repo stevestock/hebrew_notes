@@ -12,14 +12,15 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | Hebrew | Translit | English (Original)|
 | ---: | :--- | :--- |
 | דורה, בוטס |      | Dora, Boots! |
-| קדימה דורה | kadima, dora! | Come on, Dora! |
-| אוקיי | okay | Alright! |
-| נזוז | nazuz | Let's go! |
-| (!דורה, דורה, דורה, החוקרת! (כן | dora dora dora hachokeret! (Ken!) | Dora, Dora, Dora the explorer! (Dora!) |
-| !בוטס מדליק ודורה נהדרת | boots madlik v'dora nehederet | Boots and super cool explorer Dora |
-| אתם תעזרו לי | atem ta'azru li | Need your help |
-| מפה ותיק גב | mapa v'tik gav | Grab your backpack, lets go|
-|  | | Jump in, ¡vámonos! |
+| קדימה דורה | *kadima, dora!* | Come on, Dora! |
+| אוקיי | *okei* | Alright! |
+| נזוז | *nazuz* | Let's go! |
+| (!דורה, דורה, דורה, החוקרת! (כן | *dora dora dora hachokeret! (Ken!)* | Dora, Dora, Dora the explorer! (Dora!) |
+| !בוטס מדליק ודורה נהדרת | *boots madlik v'dora nehederet* | Boots and super cool explorer Dora |
+| אתם תעזרו לי | *atem ta'azru li* | Need your help |
+| מפה ותיק גבנ ,נזוז | *mapa v'tik gav, nazuz* | Grab your backpack, lets go|
+| let's go ,כולם  | *kulam, let's go* | Jump in, ¡vámonos! |
+| בואו גם אתם | *bo'u gam atem* | You can lead the way |
 
 
 
