@@ -9,6 +9,8 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 ### Dora the Explorer
 מגלים עם דורה / megalim im dora
 
+#### Theme Lyrics
+
 | Hebrew | Translit | English (Original)|
 | ---: | :--- | :--- |
 | דורה, בוטס |      | Dora, Boots! |
@@ -25,7 +27,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | אוף, חבל | *uf, chaval* | Oh man |
 | מגלים עם דורה | *megalim im dora* | Dora the Explorer! |
 
-
+#### Episode 1 Transcript
 
 
 
