@@ -21,6 +21,8 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | מפה ותיק גבנ ,נזוז | *mapa v'tik gav, nazuz* | Grab your backpack, lets go|
 | let's go ,כולם  | *kulam, let's go* | Jump in, ¡vámonos! |
 | בואו גם אתם | *bo'u gam atem* | You can lead the way |
+| חטפני אל תחטוף לי | *chatfani al tachtuf li* | Swiper no swiping |
+| אוף, חבל | *of, chaval* | Oh man |
 
 
 
