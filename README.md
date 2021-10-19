@@ -29,9 +29,13 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 
 #### Episode 1 Transcript
 התרנגול האדום הגדול
+
 hi, ani dora
+
 eich korim lachem
+
 bnei kama atem
+
 בני כמה  אתם
 
 
