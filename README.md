@@ -36,7 +36,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | **Boots:** | !שעת סיפור | *she'at sipur!* | Storytime! |
 | **Dora:** | ?רוצה לקרוא ספר נהדר שיש לי פה | *hey boots, rotze likroa sefer nehedar sheyesh li po?* | Hey Boots, you wanna read a really great book? |
 | **Boots:** | מאוד כן | *meod, ken* | A book, yeah!|
-| **Dora:** | הוא נמצא בתיקה גב<br>אתם תעזרו לי<br>תרצו לפתוח התיקה גב כדי שאוכל לקרוא לבוטס את הספר האדום הגדול שלי<br>תיקה גב ???? | *hu nimtza betika gav<br>atem ta'azru li<br>**tirtsu??** liftoach hatika gav kdi she'uchal likroa leboots et hasefer ha'adom hagadol sheli<br>???? tika gav* | It's in my backpack.<br>I need your help.<br>Will you open my backpack so I can read Boots the big red book?<br>You have to say "backpack!" |
+| **Dora:** | הוא נמצא בתיק הגב<br>אתם תעזרו לי<br>תרצו לפתוח התיק הגב כדי שאוכל לקרוא לבוטס את הספר האדום הגדול שלי<br>תיק הגב ???? | *hu nimtza betik hagav<br>atem ta'azru li<br>**tirtsu??** liftoach hatik hagav kdi she'uchal likroa leboots et hasefer ha'adom hagadol sheli<br>???? tik hagav* | It's in my backpack.<br>I need your help.<br>Will you open my backpack so I can read Boots the big red book?<br>You have to say "backpack!" |
 | **Boots:** | תגידו תיק גב | *tagidu tik gav* | Say Backpack!|
 | **Dora:** | חזק יותר | *chazak yoter* | Louder! |
 
