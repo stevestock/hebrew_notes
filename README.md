@@ -46,11 +46,12 @@ hu nimtza betika gav
 
 atem ta'azru li
 
-kirtsu liftoach hatika gav kdi she'uchal likroa leboots et hasefer ha'adom hagadol sheli
+tirtsu liftoach hatika gav kdi she'uchal likroa leboots et hasefer ha'adom hagadol sheli
 
 כדי
 
-לקרוא לבוטס את הספר האדום הגדול שלי
+תרצו לפתוח התיקה גב כדי שאוכל לקרוא לבוטס את הספר האדום הגדול שלי
+
 
 
 
