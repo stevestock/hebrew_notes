@@ -32,34 +32,17 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 
 | | Hebrew | Translit | English (Original)|
 | :--- | ---: | :--- | :--- |
-| **Dora:** | היי אני דורה <br>?איך קוראים לכם<br>?בני כמה אתם<br>!וואו זה נהדר<br>?נחשו מה<br>שעת סיפור עכשו  | *hi, ani dora<br>eich korim lachem?<br>bnei kama atem?<br>wow, ze nehedar!<br>nachashu ma?<br>she'at sipur achshav*  | |
-| **Boots:** | !שעת סיפור | *she'at sipur!* | |
-
-
-hey boots, rotze likroa sefer nehedar sheyesh li po
-
-רוצה לקרוא ספר נהדר שיש לי פה 
-
-meod, ken
-
-hu nimtza betika gav
-
-atem ta'azru li
-
-tirtsu liftoach hatika gav kdi she'uchal likroa leboots et hasefer ha'adom hagadol sheli
-
-כדי
-
-תרצו לפתוח התיקה גב כדי שאוכל לקרוא לבוטס את הספר האדום הגדול שלי
+| **Dora:** | היי אני דורה <br>?איך קוראים לכם<br>?בני כמה אתם<br>!וואו זה נהדר<br>?נחשו מה<br>שעת סיפור עכשו  | *hi, ani dora<br>eich korim lachem?<br>bnei kama atem?<br>wow, ze nehedar!<br>nachashu ma?<br>she'at sipur achshav*  | Hi, I'm Dora.<br>What's your name?<br>How old are you?<br>Wow, that's big!<br>Guess what?<br>It's storytime. |
+| **Boots:** | !שעת סיפור | *she'at sipur!* | Storytime! |
+| **Dora:** | ?רוצה לקרוא ספר נהדר שיש לי פה | *hey boots, rotze likroa sefer nehedar sheyesh li po?* | Hey Boots, you wanna read a really great book? |
+| **Boots:** | מאוד כן | *meod, ken* | A book, yeah!|
+| **Dora:** | הוא נמצא בתיקה גב<br>אתם תעזרו לי<br>תרצו לפתוח התיקה גב כדי שאוכל לקרוא לבוטס את הספר האדום הגדול שלי<br>תיקה גב ???? | *hu nimtza betika gav<br>atem ta'azru li<br>**tirtsu??** liftoach hatika gav kdi she'uchal likroa leboots et hasefer ha'adom hagadol sheli<br>???? tika gav* | It's in my backpack.<br>I need your help.<br>Will you open my backpack so I can read Boots the big red book?<br>You have to say "backpack!" |
+| **Boots:** | תגידו תיק גב | *tagidu tik gav* | Say Backpack!|
+| **Dora:** | חזק יותר | *chazak yoter* | Louder! |
 
 
 
 
-tagidu tik gav
-
-תגידו תיק גב
-
-chazak yoter
 
 ## Music
 Example Lyrics: [Maoz Tzur](maoz_tzur.md)
