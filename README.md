@@ -18,7 +18,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | אוקיי | *okei* | Alright! |
 | נזוז | *nazuz* | Let's go! |
 | (!דורה, דורה, דורה, החוקרת! (כן | *dora dora dora hachokeret! (Ken!)* | Dora, Dora, Dora the explorer! (Dora!) |
-| !בוטס מדליק ודורה נהדרת | *boots madlik v'dora nehederet* | Boots and super cool explorer Dora |
+| [^1]!בוטס מדליק ודורה נהדרת | *boots madlik v'dora nehederet* | Boots and super cool explorer Dora |
 | אתם תעזרו לי | *atem ta'azru li* | Need your help |
 | מפה ותיק גבנ ,נזוז | *mapa v'tik gav, nazuz* | Grab your backpack, lets go|
 | let's go ,כולם  | *kulam, let's go* | Jump in, ¡vámonos! |
@@ -33,3 +33,6 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 
 ## Music
 Example Lyrics: [Maoz Tzur](maoz_tzur.md)
+
+
+[^1]: Special thanks to [this tweet by @NBrandel80](https://twitter.com/NBrandel80/status/510441406696263680)
