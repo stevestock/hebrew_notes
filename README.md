@@ -37,19 +37,27 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 
 
 hey boots, rotze likroa sefer nehedar sheyesh li po
+
 רוצה לקרוא ספר נהדר שיש לי פה 
 
 meod, ken
+
 hu nimtza betika gav
+
 atem ta'azru li
-kirtsu liftoach hatika gav kti shucha likroa leboots et hasefer ha'adom hagadol sheli
+
 kirtsu liftoach hatika gav kdi she'uchal likroa leboots et hasefer ha'adom hagadol sheli
-kdi she'uchal
+
 כדי
+
 לקרוא לבוטס את הספר האדום הגדול שלי
 
+
+
 tagidu tik gav
+
 תגידו תיק גב
+
 chazak yoter
 
 ## Music
