@@ -15,7 +15,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | ---: | :--- | :--- |
 | דורה, בוטס |      | Dora, Boots! |
 | קדימה דורה | *kadima, dora!* | Come on, Dora! |
-| אוקיי | *okei* | Alright! |
+| אוקיי | okay | Alright! |
 | נזוז | *nazuz* | Let's go! |
 | (!דורה, דורה, דורה, החוקרת! (כן | *dora dora dora hachokeret! (Ken!)* | Dora, Dora, Dora the explorer! (Dora!) |
 | [^1]!בוטס מדליק ודורה נהדרת | *boots madlik v'dora nehederet* | Boots and super cool explorer Dora |
@@ -28,13 +28,16 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | מגלים עם דורה | *megalim im dora* | Dora the Explorer! |
 
 #### Episode 1 Transcript
-התרנגול האדום הגדול
+התרנגול האדום הגדול / The Legend of the Big Red Chicken
 
-hi, ani dora
+| | Hebrew | Translit | English (Original)|
+| :--- | ---: | :--- | :--- |
+| **Dora:** | היי אני דורה <br>?איך קוראים לכם<br>?בני כמה אתם<br>!וואו זה נהדר<br>?נחשו מה  | *hi, ani dora<br>eich korim lachem?<br>bnei kama atem?<br>wow, ze nehedar!<br>nachashu ma?*  | |
+| **Dora:** |  | | |
 
 eich korim lachem
 
-bnei kama atem
+
 
 בני כמה  אתם
 
