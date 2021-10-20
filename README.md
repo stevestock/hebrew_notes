@@ -40,6 +40,10 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | **Boots:** | תגידו תיק גב | *tagidu tik gav* | Say Backpack!|
 | **Dora:** | חזק יותר | *chazak yoter* | Louder! |
 | **Backpack:** | תיק גב, תיק גב<br>כן, אני הוא תיק הגב, את זה אל תשכחו<br> יש לי כאן בתוך התיק כל מה שתצטרכו | *tik gav, tik gav<br>ken, ani hu tik hagav, et ze al tishkechu<br>yesh li kan b'toch hatik col ma sh'titztartchu* | Backpack, backpack<br>I'm the backpack loaded up with things and nick-knacks too<br>Anything that you might need, I got inside for you. |
+| **Backpack:** | יש לי כאן הרבה ספרים,<br>אבל דורה צריכה את הספר האדום הגדול שלה.<br>אז בוא נחפש קודם את כל הספרים האדומים.<br>?זה ספר אדום אולי <br>!מצוין<br>נחשו מי מהם הוא הספר האדום הגדול<br>!כל הכבוד | *yesh li kan harbe sfarim<br>aval dora tzricha et hasefer ha'adom hagadol shela<br>az bo nechapes kodem et kol hasfarim ha'adumim<br>ze sefer adom ulay?<br>metzuyan!<br> nachashu mi mehem hu hasefer ha'adom hagadol<br>kol hakavod* | I have lots of books,<br>but Dora needs to find the big red book.<br>Let's look for all the red books first.<br> Is this a red book?<br>Great!<br>Now which one is the big red book?<br>You did it.|
+
+ 
+ נחשו מי מהם
 
 
 ## Music
