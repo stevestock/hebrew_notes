@@ -42,7 +42,19 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | **Boots:** | תגידו תיק גב | *tagidu tik gav* |
 | **Dora:** | חזק יותר | *chazak yoter* |
 | **Backpack:** | תיק גב, תיק גב<br>כן, אני הוא תיק הגב, את זה אל תשכחו<br> יש לי כאן בתוך התיק כל מה שתצטרכו | *tik gav, tik gav<br>ken, ani hu tik hagav, et ze al tishkechu<br>yesh li kan b'toch hatik col ma sh'titztartchu* |
-| **Backpack:** | יש לי כאן הרבה ספרים,<br>אבל דורה צריכה את הספר האדום הגדול שלה.<br>אז בוא נחפש קודם את כל הספרים האדומים.<br>!זה ספר אדום אולי? מצוין<br>נחשו מי מהם הוא הספר האדום הגדול<br>!כל הכבוד | *yesh li kan harbe sfarim<br>aval dora tzricha et hasefer ha'adom hagadol shela<br>az bo nechapes kodem et kol hasfarim ha'adumim<br>ze sefer adom ulay? metzuyan!<br> nachashu mi mehem hu hasefer ha'adom hagadol<br>kol hakavod!* |
+| **Backpack:** | יש לי כאן הרבה ספרים,<br>אבל דורה צריכה את הספר האדום הגדול שלה.<br>אז בוא נחפש קודם את כל הספרים האדומים.<br>!זה ספר אדום אולי? מצוין<br>נחשו מי מהם הוא הספר האדום הגדול<br>!כל הכבוד<br>עכשיו דורה תוכל לקרוא את הספר האדום הגדול לבוטס | *yesh li kan harbe sfarim<br>aval dora tzricha et hasefer ha'adom hagadol shela<br>az bo nechapes kodem et kol hasfarim ha'adumim<br>ze sefer adom ulay? metzuyan!<br> nachashu mi mehem hu hasefer ha'adom hagadol<br>kol hakavod!<br>achshav dora tuchal likroa et hasefer ha'adom hagadol leboots* |
+| **Boots:** | תודה<br>?איך קוראים לספר | *toda<br>eich korim lasefer?* |
+| **Dora:** | האגדה על התרנגול האדום הגדול<br>הספר באנגלית<br>אבל אני אתרגם לך אותו עברית | *ha'agada al tarnegol ha'adom hagadol<br>hasefer be'anglit<br>aval ani atargem l'cha oto ivrit* |
+
+
+
+ha'agada al tarnegol ha'adom hagadol
+האגדה על התרנגול האדום הגדול
+
+hasefer be'anglit
+הספר באנגלית
+aval ani atargem l'cha oto ivrit
+אבל אני אתרגם לך אותו עברית
 
 ## Music
 Example Lyrics: [Maoz Tzur](maoz_tzur.md)
