@@ -38,7 +38,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | **Boots:** | !שעת סיפור | *she'at sipur!* |
 | **Dora:** | ?רוצה לקרוא ספר נהדר שיש לי פה | *hey boots, rotze likroa sefer nehedar sheyesh li po?* |
 | **Boots:** | מאוד כן | *meod, ken* |
-| **Dora:** | הוא נמצא בתיק הגב<br>אתם תעזרו לי<br>תרצו לפתוח את תיק הגב כדי שאוכל לקרוא לבוטס את הספר האדום הגדול שלי<br>תצטרכו לומר תיק גב | *hu nimtza betik hagav<br>atem ta'azru li<br>**tirtsu??** liftoach et tik hagav kdi she'uchal likroa leboots et hasefer ha'adom hagadol sheli<br>tirtztarchu lomar tik gav* |
+| **Dora:** | הוא נמצא בתיק הגב<br>אתם תעזרו לי<br>תרצו לפתוח את תיק הגב כדי שאוכל לקרוא לבוטס את הספר האדום הגדול שלי<br>תצטרכו לומר תיק גב | *hu nimtza betik hagav<br>atem ta'azru li<br>**tirtsu??** liftoach et tik hagav kdi she'uchal likro leboots et hasefer ha'adom hagadol sheli<br>tirtztarchu lomar tik gav* |
 | **Boots:** | תגידו תיק גב | *tagidu tik gav* |
 | **Dora:** | חזק יותר | *chazak yoter* |
 | **Backpack:** | תיק גב, תיק גב<br>כן, אני הוא תיק הגב, את זה אל תשכחו<br> יש לי כאן בתוך התיק כל מה שתצטרכו | *tik gav, tik gav<br>ken, ani hu tik hagav, et ze al tishkechu<br>yesh li kan b'toch hatik col ma sh'titztartchu* |
