@@ -45,7 +45,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | **Backpack:** | יש לי כאן הרבה ספרים,<br>אבל דורה צריכה את הספר האדום הגדול שלה.<br>אז בוא נחפש קודם את כל הספרים האדומים.<br>!זה ספר אדום אולי? מצוין<br>נחשו מי מהם הוא הספר האדום הגדול<br>!כל הכבוד<br>עכשיו דורה תוכל לקרוא את הספר האדום הגדול לבוטס | *yesh li kan harbe sfarim<br>aval dora tzricha et hasefer ha'adom hagadol shela<br>az bo nechapes kodem et kol hasfarim ha'adumim<br>ze sefer adom ulay? metzuyan!<br> nachashu mi mehem hu hasefer ha'adom hagadol<br>kol hakavod!<br>achshav dora tuchal likroa et hasefer ha'adom hagadol leboots* |
 | **Boots:** | תודה<br>?איך קוראים לספר | *toda<br>eich korim lasefer?* |
 | **Dora:** | האגדה על התרנגול האדום הגדול<br>הספר באנגלית<br>אבל אני אתרגם לך אותו עברית | *ha'agada al tarnegol ha'adom hagadol<br>hasefer be'anglit<br>aval ani atargem l'cha oto ivrit* |
-| **Dora:** | היה היה תרנגול אדום וקטן שחי על גבעה אדומה וגדולה | *haya haya tarnegol adom v'katan sh'chai al giv'a aduma ugdola* |
+| **Dora:** | היה היה תרנגול אדום וקטן שחי על גבעה אדומה וגדולה | *hayo haya tarnegol adom v'katan sh'chai al giv'a aduma ugdola* |
 
 
 ## Music
