@@ -37,7 +37,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | **Dora:** | היי אני דורה <br>?איך קוראים לכם<br>?בני כמה אתם<br>!וואו זה נהדר<br>?נחשו מה<br>שעת סיפור עכשו  | *hi, ani dora<br>eich korim lachem?<br>bnei kama atem?<br>wow, ze nehedar!<br>nachashu ma?<br>she'at sipur achshav*  |
 | **Boots:** | !שעת סיפור | *she'at sipur!* |
 | **Dora:** | ?רוצה לקרוא ספר נהדר שיש לי פה | *hey boots, rotze likroa sefer nehedar sheyesh li po?* |
-| **Boots:** | מאוד כן | *meod, ken* |
+| **Boots:** | מאוד כן | *me'od, ken* |
 | **Dora:** | הוא נמצא בתיק הגב<br>אתם תעזרו לי<br>תרצו לפתוח את תיק הגב כדי שאוכל לקרוא לבוטס את הספר האדום הגדול שלי<br>תצטרכו לומר תיק גב | *hu nimtza betik hagav<br>atem ta'azru li<br>**tirtsu??** liftoach et tik hagav kdi she'uchal likro leboots et hasefer ha'adom hagadol sheli<br>tirtztarchu lomar tik gav* |
 | **Boots:** | תגידו תיק גב | *tagidu tik gav* |
 | **Dora:** | חזק יותר | *chazak yoter* |
@@ -46,6 +46,22 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | **Boots:** | תודה<br>?איך קוראים לספר | *toda<br>eich korim lasefer?* |
 | **Dora:** | האגדה על התרנגול האדום הגדול<br>הספר באנגלית<br>אבל אני אתרגם לך אותו עברית | *ha'agada al tarnegol ha'adom hagadol<br>hasefer be'anglit<br>aval ani atargem l'cha oto ivrit* |
 | **Dora:** | היה היה תרנגול אדום וקטן שחי על גבעה אדומה וגדולה | *hayo haya tarnegol adom v'katan sh'chai al giv'a aduma ugdola* |
+
+התרנגול האדום הגדול היה מאוד מאוד קטן
+
+hatarnegol ha'adom hakatan haya me'od me'od katan
+
+הוא לא יכול היה לרוץ מהר כמו חברים שלו
+
+hu lo yachol haya larutz maher kmo chaverim shelo
+
+הוא היה כל כך קטן, שהוא היה צריך להיות זהיר מאוד, כדי שחברים שלו ידרכו עליו
+
+OR
+
+הוא היה כל כך קטן, שהוא היה צריך להיות זהיר מאוד, כדי שחברים שלא ידרכו עליו
+
+hu haya kol kach katan, shehu haya tzarich lihyot zahir me'od, kedei shechaverim shelo yidrechu alav
 
 
 ## Music
