@@ -23,7 +23,7 @@ A collection of Hebrew transcripts, lyrics, synonyms, antonyms, mnemonics, homon
 | מפה ותיק גבנ ,נזוז | *mapa v'tik gav, nazuz* |
 | let's go ,כולם  | *kulam*, let's go |
 | בואו גם אתם | *bo'u gam atem* |
-| חטפני אל תחטוף לי | *chatfani al tachtuf li* |
+| חטפני אל תחטוף לי | *chatfani al tachtof li* |
 | אוף, חבל | *uf, chaval* |
 | מגלים עם דורה | *megalim im dora* |
 
